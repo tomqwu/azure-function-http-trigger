@@ -5,7 +5,7 @@
         "type": "httpTrigger",
         "direction": "in",
         "webHookType": "genericJson",
-        "authLevel": "function"
+        "authLevel": "anonymous"
       }
     ]
   }
