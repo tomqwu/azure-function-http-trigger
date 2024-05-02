@@ -1,0 +1,11 @@
+{
+    "bindings": [
+      {
+        "name": "incoming",
+        "type": "httpTrigger",
+        "direction": "in",
+        "webHookType": "genericJson",
+        "authLevel": "function"
+      }
+    ]
+  }
